@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Can.</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ycannkurt" alt="ycannkurt" /></a> </p>
-
 - 🔭 I’m currently working on [Stok-Takip-Otomasyonu](https://github.com/ycannkurt/Stok-Takip-Otomasyonu)
 
 - 🌱 I’m currently learning **React**
@@ -24,6 +21,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me **yunuscankurt58@gmail.com**
 
 - ⚡ Fun fact **I'm a little lazy 🤣**
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ycannkurt" alt="ycannkurt" /></a> </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
