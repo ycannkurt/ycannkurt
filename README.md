@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/y-can-kurt-30a949205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="y-can-kurt-30a949205" height="30" width="40" /></a>
 <a href="https://fb.com/ycannkurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ycannkurt" height="30" width="40" /></a>
 <a href="https://instagram.com/ycannkurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ycannkurt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/y. can kurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="y. can kurt" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCqKruHZzKS5tYOGpt3aQZ8g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="y. can kurt" height="30" width="40" /></a>
 <a href="https://discord.gg/692384298845601844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="692384298845601844" height="30" width="40" /></a>
 </p>
 
