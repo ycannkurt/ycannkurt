@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Can.</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate software test engineer from Turkey</h3>
 
 - 🔭 I’m currently working on [Stok-Takip-Otomasyonu](https://github.com/ycannkurt/Stok-Takip-Otomasyonu)
 
